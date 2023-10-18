@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SubmissionPemulaAPP</string>
+    <string name="welcome">Welcome To Animal APP!</string>
+    <string name="latin">Nama Latin</string>
+    <string name="animal">Hewan</string>
+    <string name="icon">icon</string>
+    <string name="profile_name">Reynaldi</string>
+    <string name="email">Reynalddi93@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_photo">
+        <item>https://th.bing.com/th/id/OIP.6wxrN5CjRUzuwWskWxmTBQHaE8?w=247&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7</item>
+        <item>https://th.bing.com/th/id/OIP.HmDA5Y9ZnHGne_Q4m9OfnAHaFj?w=337&amp;h=202&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7</item>
+        <item>https://th.bing.com/th/id/OIP.SigEyy7fuIVcQRn5ZBzdQgHaFj?w=246&amp;h=185&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7</item>
+        <item>https://th.bing.com/th/id/OIP.DPJEHc5i3JtXvSkRw43WNQHaFj?w=235&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7</item>
+        <item>https://th.bing.com/th/id/OIP.nYfJPiXcm1m8Z1R1smw6RgHaFj?w=239&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7</item>
+        <item>https://th.bing.com/th/id/OIP.xZw15cEB4CD7IviwrhykQwHaFj?w=252&amp;h=189&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7</item>
+        <item>https://th.bing.com/th/id/OIP.shHuah3lK9uzUPvyC6WQoAHaHJ?w=187&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jumping_Humpback_whale.jpg/330px-Jumping_Humpback_whale.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sow_with_piglet.jpg/375px-Sow_with_piglet.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Snodgrass_common_household_roaches.png/330px-Snodgrass_common_household_roaches.png</item>
+    </string-array>
+
+    <string-array name="data_animal">
+        <item>Buaya</item>
+        <item>Kucing</item>
+        <item>Anjing</item>
+        <item>Harimau</item>
+        <item>Singa</item>
+        <item>Kuda</item>
+        <item>Hiu</item>
+        <item>Paus</item>
+        <item>Babi</item>
+        <item>Kecoa</item>
+    </string-array>
+
+    <string-array name="data_latin">
+        <item>Crocodylus</item>
+        <item>Felis catus</item>
+        <item>Canis lupus familiaris</item>
+        <item>Panthera tigris</item>
+        <item>Panthera leo</item>
+        <item>Equus caballus</item>
+        <item>Carcharhinus longimanus</item>
+        <item>Cetacea</item>
+        <item>Sus scrofa domesticus</item>
+        <item>Blattodea</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Buaya adalah reptil bertubuh besar yang hidup di air. Secara ilmiah, buaya meliputi seluruh spesies anggota famili Crocodylidae, termasuk pula buaya sepit (Tomistoma schlegelii). Meski demikian nama ini dapat pula dikenakan secara longgar untuk menyebut ‘buaya’ aligator, kaiman dan gavial; yakni kerabat-kerabat buaya yang berlainan suku. Buaya umumnya menghuni habitat perairan tawar seperti sungai, danau, rawa dan lahan basah lainnya. Namun, ada pula yang hidup di air payau seperti buaya muara. Makanan utama buaya adalah hewan-hewan bertulang belakang seperti bangsa ikan, reptil dan mamalia, kadang-kadang juga memangsa moluska dan krustasea bergantung pada spesiesnya. Buaya merupakan hewan purba, yang hanya sedikit berubah karena evolusi semenjak zaman dinosaurus.
+        </item>
+        <item>Kucing disebut juga kucing domestik atau kucing rumah (nama ilmiah: Felis silvestris catus atau Felis catus) adalah sejenis mamalia karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga bisa merujuk kepada "kucing besar" seperti singa dan harimau yang juga termasuk jenis kucing. Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 5.000 tahun SM, dengan ditemukannya kerangka kucing di Pulau Siprus. Sejak zaman 3.500 SM, orang Mesir Kuno telah menggunakan kucing untuk menjauhkan tikus atau hewan pengerat lain dari lumbung yang menyimpan hasil panen.</item>
+        <item>Anjing domestik atau anjing (Canis lupus familiaris) adalah hewan mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu, bahkan kemungkinan sudah sejak 100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA. Penelitian lain mengungkap sejarah domestikasi anjing yang belum begitu lama. Anjing telah berkembang menjadi ratusan ras dengan berbagai macam variasi. Warna rambut anjing bisa beraneka ragam, mulai dari putih sampai hitam, juga merah, abu-abu (sering disebut "biru"), dan cokelat. Selain itu, anjing memiliki berbagai jenis rambut. Rambut anjing bisa lurus atau keriting, dan bertekstur kasar hingga lembut seperti benang wol.</item>
+        <item>Harimau (Panthera tigris) adalah spesies kucing terbesar yang masih hidup dari genus Panthera. Harimau tidak sama dengan maung.Harimau memiliki ciri loreng yang khas pada bulunya, berupa garis-garis vertikal gelap pada bulu oranye, dengan bulu bagian bawah berwarna putih. Harimau adalah pemangsa puncak, mereka terutama memangsa ungulata seperti rusa dan babi celeng. Harimau adalah hewan teritorial dan umumnya merupakan pemangsa soliter yang penyendiri, tetapi tetap memiliki sisi sosial, mereka tetap tinggal di area-area yang berdekatan, untuk mendukung kebutuhan makanan dan membesarkan keturunannya. Anak harimau tinggal bersama ibu mereka selama sekitar dua tahun, kemudian akan hidup mandiri dan meninggalkan daerah jelajah ibu mereka untuk membangun rumah mereka sendiri.</item>
+        <item>Singa (Sanskerta: Siṃha, atau nama ilmiahnya Panthera leo) adalah spesies hewan dari keluarga felidae atau keluarga kucing. Singa berada di benua Afrika dan sebagian di wilayah India. Singa merupakan hewan yang hidup berkelompok. Biasanya terdiri dari seekor jantan dan banyak betina. Kelompok ini menjaga daerah kekuasaannya. Umur singa antara 10 sampai 15 tahun di alam bebas, tetapi dalam penangkaran memungkinkan lebih dari 20 tahun. Singa yang lebih muda akan merebut kepemimpinan dari singa yang lebih tua. Kebanyakan singa yang lebih muda akan memakan anak singa dari pemimpin sebelumnya.</item>
+        <item>Kuda (Equus caballus atau Equus ferus caballus) adalah salah satu dari sepuluh spesies modern mamalia dari genus Equus. Sejak dahulu hewan ini merupakan salah satu hewan peliharaan yang berfungsi secara ekonomis dan memiliki nilai historis. Kuda juga memegang peranan penting dalam pengangkutan orang dan barang selama ribuan tahun. Kuda dapat ditunggangi oleh manusia dengan menggunakan sadel dan dapat pula digunakan untuk menarik sesuatu, seperti kendaraan beroda, atau bajak. Pada beberapa daerah, kuda juga digunakan sebagai sumber makanan. Walaupun peternakan kuda diperkirakan telah dimulai sejak tahun 4500 SM, bukti-bukti penggunaan kuda untuk keperluan manusia baru ditemukan terjadi sejak 2000 SM.</item>
+        <item>Hiu atau cucut (superordo Selachimorpha) adalah sekelompok ikan dengan kerangka tulang rawan yang lengkap. dan tubuh yang ramping. Mereka bernapas dengan menggunakan lima liang insang (kadang-kadang enam atau tujuh, tergantung pada spesiesnya) di samping, atau dimulai sedikit di belakang, kepalanya. Hiu mempunyai tubuh yang dilapisi kulit dermal denticles untuk melindungi kulit mereka dari kerusakan, dari parasit, dan untuk menambah dinamika air. Mereka mempunyai beberapa deret gigi yang dapat digantikan. Hiu mencakup spesies yang berukuran sebesar telapak tangan. Hiu pigmi (Euprotomicrus bispinatus) sebuah spesies dari laut dalam yang panjangnya hanya 22 cm, hingga Hiu paus (Rhincodon typus) yang merupakn ikan terbesar yang mampu tumbuh hingga sekitar 12 meter dan hanya memakan plankton melalui alat penyaring di mulutnya.</item>
+        <item>Paus atau lodan (khusus yang bergigi dan bukan berukuran kecil) adalah kelompok mamalia yang hidup di lautan. Paus bukan tergolong dalam keluarga ikan. Paus purba berevolusi pada pertengahan tempo Eocene, kira-kira 50 juta tahun yang lalu. Salah satu paus terawal yang telah punah adalah Basilosaurus yang mempunyai kepala kecil bermoncong menonjol dan bergigi. Basilosaurus mempunyai panjang 25 meter.</item>
+        <item>Babi adalah sejenis hewan ungulata yang bermoncong panjang dan berhidung lemper dan merupakan hewan yang aslinya berasal dari Eurasia. Babi merupakan omnivora yang berarti mereka mengonsumsi daging maupun tumbuh-tumbuhan. Selain itu, babi termasuk salah satu mamalia yang paling cerdas, dan dilaporkan lebih pintar dan mudah dipelihara dibandingkan dengan anjing dan kucing.</item>
+        <item>Kecoak, lipas, atau coro adalah salah satu ordo serangga (Blattodea) hemimetabola yang berasal dari kelas Insecta. Ordo ini terdiri dari 4000 spesies, 2 superfamili, dan 6 famili. Kecoak terdapat hampir di seluruh belahan bumi, kecuali di wilayah kutub. Kecoak memiliki hubungan dekat dengan belalang sentadu (Mantodea) dan rayap (Isoptera). Di antara spesies yang paling terkenal adalah kecoak amerika, Periplaneta americana, yang memiliki panjang 3 cm, kecoak jerman, Blattella germanica, dengan panjang ±1½ cm, dan kecoak asia, Blattella asahinai, juga dengan panjang sekitar 1½ cm. Kecoak sering dianggap sebagai hama dalam bangunan, walaupun hanya sedikit dari ribuan spesies kecoak yang termasuk dalam kategori ini. Kecoak yang makan deterjen akan giras</item>
+    </string-array>
+</resources>
